@@ -6,3 +6,4 @@
 5 git commit -m '评论-说明'
 6 git push origin //origin可省略
 
+1. learn git https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging#_basic_merging
