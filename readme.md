@@ -9,3 +9,4 @@
 1. learn git https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging#_basic_merging
 
 1. git checkout -b dev // 增加dev分支
+2. 刚刚git checkout -b hotfix, master进行git merge hotfix 然后删除hotfix了git branch -d hotfix 
